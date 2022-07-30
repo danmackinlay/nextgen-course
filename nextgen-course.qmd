@@ -1,7 +1,20 @@
 ---
-title: "nextgen-course"
+title: "Probability"
+author: "Dan MacKinlay"
+institute: "CSIRO’s Data61"
+format: 
+    html:
+        code-fold: true
+    # revealjs:
+    #     toc: false
+    #     slide-level: 2
+execute:
+  echo: false
 ---
 
-## Quarto
+## Probability from examples
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+```{ojs}
+// data = FileAttachment("palmer-penguins.csv").csv({ typed: true })
+data = []
+```
