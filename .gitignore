@@ -104,3 +104,6 @@ dist
 .tern-port
 
 venv/
+
+## manim
+media/**/partial_movie_files/
