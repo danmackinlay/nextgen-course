@@ -106,4 +106,6 @@ dist
 venv/
 
 ## manim
-media/**/partial_movie_files/
+media/videos/**/partial_movie_files/*
+media/jupyter/*
+.ipynb_checkpoints/
