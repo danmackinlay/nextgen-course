@@ -108,4 +108,6 @@ venv/
 ## manim
 media/videos/**/partial_movie_files/*
 media/jupyter/*
+media/texts/*
+media/Tex/*
 .ipynb_checkpoints/
