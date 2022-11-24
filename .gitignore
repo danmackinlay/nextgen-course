@@ -111,3 +111,4 @@ media/jupyter/*
 media/texts/*
 media/Tex/*
 .ipynb_checkpoints/
+.DS_Store
