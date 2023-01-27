@@ -113,3 +113,5 @@ media/Tex/*
 .ipynb_checkpoints/
 .DS_Store
 media
+.vscode
+__pycache__
