@@ -8,3 +8,4 @@
 ## Credit
 
 * Person icon by [thenounproject.com/asianson.design/](https://thenounproject.com/asianson.design/)
+* shirt icon by [thenounproject.com/robinsemilson/](https://thenounproject.com/robinsemilson/)
