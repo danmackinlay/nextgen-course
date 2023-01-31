@@ -1,2 +1,4 @@
-manim~=0.17.1
+manim~=0.17.2
 manim_fonts
+jupyter
+jupyter_contrib_nbextensions  # not sure where this requirement crept in
