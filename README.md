@@ -1,4 +1,8 @@
-# intro-to-probability
+# Next Generation Graduate program Lecture 01: introduction to probability
+
+The notation in this lecture matches chapter 2 of Chris Bishop’s _Pattern Recognition and Machine Learning_.
+
+This lecture was developed for CSIRO’s Data61 by [Dan MacKinlay](https://danmackinlay.name).
 
 ## Internal branding requirements
 
