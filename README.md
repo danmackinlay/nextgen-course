@@ -4,6 +4,19 @@ The notation in this lecture matches chapter 2 of Chris Bishop’s _Pattern Reco
 
 This lecture was developed for CSIRO’s Data61 by [Dan MacKinlay](https://danmackinlay.name).
 
+## Usage
+
+If you would like to generate all the animations used in this lecture, run the notebook [`NG_01_lecture.ipynb`](NG_01_lecture.ipynb).
+If you would like to see the recommended exercises, start from the notebook [`NG_01_lecture.ipynb`](NG_01_lecture.ipynb).
+
+## setup
+
+A python environment sufficient to execute everything is may be constructed by
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Internal branding requirements
 
 - Headings : [Montserrat - Google Fonts](https://fonts.google.com/specimen/Montserrat)
