@@ -1,6 +1,6 @@
 # Next Generation Graduate program Lecture 01: introduction to probability
 
-The notation in this lecture matches chapter 2 of Chris Bishop’s _Pattern Recognition and Machine Learning_.
+The notation in this lecture matches chapter 2 of [Chris Bishop’s _Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
 
 This lecture was developed for CSIRO’s Data61 by [Dan MacKinlay](https://danmackinlay.name).
 
